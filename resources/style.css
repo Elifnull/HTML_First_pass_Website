@@ -1,3 +1,7 @@
-*{
-    font-family: 'Courier New', Courier, monospace;
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.Main_list {
+    font-family: 'Times New Roman', Times, serif;
 }
